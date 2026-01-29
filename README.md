@@ -94,7 +94,7 @@ The workshop uses the TPC-DS benchmark dataset with 14 tables:
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/aws-lakeformation-workshop.git
+git clone https://github.com/NileshjVaghela/aws-lakeformation-workshop.git
 cd aws-lakeformation-workshop
 
 # Deploy CloudFormation stack
